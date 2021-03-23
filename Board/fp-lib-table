@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name XT60-M)(type KiCad)(uri /Users/nathan/Documents/CNC/MPCNC/NewBoard/miniCNC/XT60-M)(options "")(descr ""))
+  (lib (name DRV8825_STEPPER_MOTOR_DRIVER_CARRIER)(type KiCad)(uri /Users/nathan/Documents/CNC/MPCNC/NewBoard/miniCNC/DRV8825_STEPPER_MOTOR_DRIVER_CARRIER)(options "")(descr ""))
+)
